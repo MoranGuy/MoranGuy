@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MoranGuy
 - 👀 I’m interested in FrontEnd Development, creating cool web-applications and websites and talking about programming in general =)
 - 🌱 I’m currently learning JavaScript and creating small projects
-- 📫 How to reach me: Twitter: @Haritelz, e-mail: maxnov99@gmail.com, LinkedIn: maksym-novikov-173124205. Feel free to connect!
+- 📫 How to reach me: Twitter: @Haritelz, e-mail: maxnov99@gmail.com, LinkedIn: maksymnovikov. Feel free to connect!
