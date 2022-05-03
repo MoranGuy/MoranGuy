@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoranGuy
-- 👀 I’m interested in FrontEnd Development, creating cool web-applications and websites and talking about programming in general =)
-- 🌱 I’m currently learning JavaScript and creating small projects
+- 👋 Hi, I’m Maksym
+- 👀 I’m an Angular Frontend Developer in InventorSoft company
+- 🌱 I’m currently learning React as my second technology
 - 📫 How to reach me: Twitter: @Haritelz, e-mail: maxnov99@gmail.com, LinkedIn: maksymnovikov. Feel free to connect!
